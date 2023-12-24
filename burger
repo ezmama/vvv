@@ -1,0 +1,4 @@
+while true do
+    game:GetService('Players').LocalPlayer:Kick("бургер")
+    wait(3)
+end
